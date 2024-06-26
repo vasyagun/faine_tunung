@@ -9,7 +9,7 @@ sudo apt install -y python3 python3-venv python3-pip git
 ```
 ### 2. Клонирование репозитория
 ```bash
-git clone git@github.com:vasyagun/faine_tunung.git
+git clone https://github.com/vasyagun/faine_tunung.git
 cd faine_tunung
 ```
 
