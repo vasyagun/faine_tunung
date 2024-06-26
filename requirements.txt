@@ -1,0 +1,9 @@
+transformers
+datasets
+pandas
+scikit-learn
+torch
+accelerate
+pymorphy2
+emoji
+regex
