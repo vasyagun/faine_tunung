@@ -5,12 +5,12 @@
 
 ```bash
 sudo apt update
-sudo apt install -y python3 python3-venv python3-pip
+sudo apt install -y python3 python3-venv python3-pip git
 ```
 ### 2. Клонирование репозитория
 ```bash
-git clone https://github.com/your_username/your_project.git
-cd your_project
+git clone git@github.com:vasyagun/faine_tunung.git
+cd faine_tunung
 ```
 
 ### 3. Создание и активация виртуального окружения
